@@ -3538,8 +3538,6 @@ section{
 
   .footer-cell {
     padding-bottom: 20px;
-    position: absolute;
-    top: 0;
   }
 
   .footer-text {
