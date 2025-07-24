@@ -1732,7 +1732,7 @@ section{
 
 .line {
   width: 70vw;
-  margin-left: 10vw;
+  margin-left: 0vw;
   margin-right: 10vw;
   height: 10vh;
   border-bottom: 1px solid var(--white);
