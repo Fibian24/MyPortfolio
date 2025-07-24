@@ -2036,6 +2036,7 @@ section{
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
+  possition: reletive;
 }
 
 .footer-inner {
